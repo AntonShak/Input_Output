@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3e01e49-bdae-4159-b5f7-175bf9f8208a" name="Changes" comment="inputStream-DONE">
-      <change beforePath="$PROJECT_DIR$/src/com/shakov/lesson30/ReaderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shakov/lesson30/ReaderExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="c3e01e49-bdae-4159-b5f7-175bf9f8208a" name="Changes" comment="reader-DONE" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,12 +61,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700714063558</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="reader-DONE">
+      <option name="closed" value="true" />
+      <created>1700714734687</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700714734687</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="file-DONE" />
     <MESSAGE value="inputStream-DONE" />
-    <option name="LAST_COMMIT_MESSAGE" value="inputStream-DONE" />
+    <MESSAGE value="reader-DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="reader-DONE" />
   </component>
 </project>
