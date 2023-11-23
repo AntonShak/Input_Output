@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3e01e49-bdae-4159-b5f7-175bf9f8208a" name="Changes" comment="outputStream-DONE" />
+    <list default="true" id="c3e01e49-bdae-4159-b5f7-175bf9f8208a" name="Changes" comment="writer-DONE" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +77,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700715367707</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="writer-DONE">
+      <option name="closed" value="true" />
+      <created>1700715834777</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700715834777</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -85,6 +93,7 @@
     <MESSAGE value="inputStream-DONE" />
     <MESSAGE value="reader-DONE" />
     <MESSAGE value="outputStream-DONE" />
-    <option name="LAST_COMMIT_MESSAGE" value="outputStream-DONE" />
+    <MESSAGE value="writer-DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="writer-DONE" />
   </component>
 </project>
